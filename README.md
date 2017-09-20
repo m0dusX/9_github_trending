@@ -1,6 +1,6 @@
 # Github Trends
 
-[TODO. There will be project description]
+This script prints top 20 of the most popular github repos of the past week.
 
 # Project Goals
 
