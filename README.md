@@ -9,13 +9,13 @@ This script gets top 20 of the most popular github repos from the past week (bas
 
 # Quickstart
 
-Place pprint_json.py somewhere. Then run command line, go to folder in which you moved script and execute it.
+Place github_trending.py somewhere. Then run command line, go to folder in which you moved script and execute it.
 
 Example of script launch on Linux, Python 3.5:
 
 ```#!bash
 
-$ python github_trending.py.py
+$ python github_trending.py
 
 ```
 
