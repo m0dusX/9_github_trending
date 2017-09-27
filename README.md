@@ -19,6 +19,27 @@ $ python github_trending.py
 
 ```
 
+Output data example:
+
+```#!bash
+
+1) Author: google
+Repo name: domato
+Link: https://github.com/google/domato
+Stargazers count: 422
+Opened issues: 0
+
+2) Author: nopernik
+Repo name: sshpry
+Link: https://github.com/nopernik/sshpry
+Stargazers count: 303
+Opened issues: 1
+
+3) Author: pierricgimmig
+......
+
+```
+
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
